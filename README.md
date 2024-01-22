@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordtheKingOne
 - 👀 I’m interested in game development and pixel art
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and C.
 - 💞️ I’m looking to collaborate on an any company.
 - 📫 How to reach me my discord:King01#1124
 
